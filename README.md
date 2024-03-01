@@ -3,7 +3,7 @@ Welcome to the AWS CodeStar 'hello world' sample project for  Alexa Skills Kit (
 
 This project helps first-time Alexa Skills Kit developers get started by providing them with a working 'hello world' skill. This project provisions a sample Alexa skill that uses the custom interaction model, an AWS Lambda function, and an AWS CodePipeline continuous integration/continuous delivery (CI/CD) pipeline.
 
-****NOTE**** : You should only make edits in the repository. Do not edit this skill directly using any other Alexa Skills Kit tools which are not integrated with this repository.
+***NOTE*** : You should only make edits in the repository. Do not edit this skill directly using any other Alexa Skills Kit tools which are not integrated with this repository.
 
 Pre-requisites
 --------------
